@@ -1,0 +1,257 @@
+body{
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    color: #f5f6f7;
+    background-color: black;
+    width: auto;
+    margin: 0;
+    }
+
+#nav{
+    float: right;
+    color: white;
+    text-decoration: none;
+    margin: 35px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+.aboveFold{
+    text-align: center;
+    background-image: url("https://www.hulu.com/static/hitch/s3/attachments/ckbvd0gyz00xg19mlsu9nayv7-homepage-masthead-test-desktop-3200x1320-v4c-6-16-20.jpg");
+    height: 32.4em;
+    background-position: center;
+    background-size: cover;
+}
+
+.centerWork{
+    width: 52%;
+    margin: auto;
+    padding-top: 138px;
+}
+
+.tagline{
+    color: #2DBD9D;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.logo{
+    margin: auto;
+    width: 42%;
+    padding: 9px;
+}
+
+.logo1{
+    opacity:1; 
+    width: 100%;
+    margin: auto;
+}
+
+h2{
+    font-size: 22px;
+    font-weight: 520;
+
+}
+
+h3{
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 120;
+    letter-spacing: .05em;
+}
+
+.buttonOne{
+    width: 200px;
+    height:52px;
+    line-height: 52px;
+    margin:auto;
+    background-color: white;
+    color: black;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 0 32px;
+    font-size: 14px;
+    font-weight: 575;
+    line-height: 14px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-align: center; 
+}
+
+a{
+    
+    color: white;
+    font-size: 12px;
+    font-weight: lighter;
+    letter-spacing: .025em;
+}
+
+#start {
+    color: black;
+    text-decoration: none;
+    line-height: 52px;
+    font-size:13px;
+    font-weight: 565;
+}
+
+.legal{
+    padding-top: .7em;
+}
+
+#legalline {
+    color: gray;
+    text-decoration: none;
+    font-size: 10px;;
+
+}
+
+.ribbon{
+    background-image: linear-gradient(318.68deg, #0F495C 0%, #0D3640 49.72%, #08141F 100%);
+    width: auto;
+    display: flex;
+    height: 157px;
+    align-items: center;
+}
+
+.disney{
+    width: 25%;
+    padding:0 20px 0 20px;
+    text-align:center;
+    height: auto;
+}
+.disneyLogo{
+    max-width:90%;
+    height:auto;
+}
+
+.bundle{
+    width: 60%;
+    postion: left;
+
+}
+
+h4{
+    font-size: 22px;
+    font-weight: lighter;
+    width: 70%;
+    display: block;
+    margin-block-start: .5em;
+    margin-block-end: .5em;
+}
+
+.buttonTwo{
+    width:15%;
+
+}
+
+.actualButton{
+    height:45px;
+    line-height: 45px;
+    margin-top: 15px;
+    margin-right: 25%;
+    text-transform: uppercase;
+    border: .16em solid white;
+    border-radius: 4px;
+    text-align: center;   
+}
+
+#getBundle{
+    color: white;
+    font-size: 13px;
+    font-weight: 575;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+#details{
+    color: #93a1a6;
+    font-weight: 545;
+    font-size: 13px;
+}
+.buttonTwo
+
+#terms{
+    color: #93a1a6;
+    font-size: 9px;
+    display: block;
+    text-align: center;
+    padding-top: 7pt;
+    padding-right: 25%;
+}
+
+.belowFold{
+    background-color:black;
+}
+.words{
+    margin: auto;
+    padding-top: 85px;
+    padding-bottom: 48px;;
+    text-align: center;
+    width: 60%;
+}
+
+
+h1 {
+    font-size: 62px;
+    display: block;
+    margin-block-start: .2em;
+    margin-block-end: .2em;
+    font-weight: bolder;
+}
+
+.stream{
+    font-size: 19px;
+    font-weight: lighter;
+    padding-top: 15px;;
+}
+
+.shows{
+    display: flex;
+    width:8vw;
+    margin-left: 5px;
+}
+
+.libraryImg{
+    width:22vw;
+    padding:10px;
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+.titles{
+    display: flex;
+}
+
+.subtitle{
+    width:22vw;
+    padding:10px;
+    padding-left: 20px;
+    margin-top:-450px;
+    background-color:#0000004e;
+}
+
+h4 {
+    font-size: 15px;
+    margin: 5px;
+    padding-left: 15px;
+    padding-top:10px;
+}
+
+h2 {
+    margin: 5px;
+    font-weight: bold;
+    padding-left: 15px;
+}
+ 
+.disclaimer{
+display: block;
+float: right;
+font-size: 10px;
+color: #bebebe;
+letter-spacing: .05em;
+font-weight: lighter;
+background-color: black;
+margin-bottom: 3em;
+margin-right:65px;
+}
