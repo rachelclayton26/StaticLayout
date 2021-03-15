@@ -131,13 +131,12 @@ a{
 
 }
 
-h4{
-    font-size: 22px;
-    font-weight: lighter;
-    width: 70%;
-    display: block;
-    margin-block-start: .5em;
-    margin-block-end: .5em;
+.get {
+font-size: 24px;
+font-weight: lighter;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 80%;
 }
 
 .buttonTwo{
@@ -209,6 +208,7 @@ h1 {
 .shows{
     display: flex;
     width:8vw;
+    height:
     margin-left: 5px;
 }
 
@@ -221,13 +221,16 @@ h1 {
 
 .titles{
     display: flex;
+    position: absolute;
+
 }
 
 .subtitle{
+    position: static;
     width:22vw;
     padding:10px;
     padding-left: 20px;
-    margin-top:-450px;
+    margin-top:-43vh;
     background-color:#0000004e;
 }
 
@@ -235,7 +238,10 @@ h4 {
     font-size: 15px;
     margin: 5px;
     padding-left: 15px;
-    padding-top:10px;
+    padding-top:10px;h4{
+    margin-block-start: .5em;
+    margin-block-end: .5em;
+    }
 }
 
 h2 {
