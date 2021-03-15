@@ -48,10 +48,8 @@ body{
     margin: auto;
 }
 
-h2{
+.watch{
     font-size: 22px;
-    font-weight: 520;
-
 }
 
 h3{
@@ -236,6 +234,7 @@ h1 {
 
 h4 {
     font-size: 15px;
+    font-weight: lighter;
     margin: 5px;
     padding-left: 15px;
     padding-top:10px;h4{
